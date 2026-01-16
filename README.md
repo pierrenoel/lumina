@@ -33,6 +33,6 @@ Bash
 npm run dev
 ```
 
-### 💡 Webiste
+### 💡 Website
 
 [https://pierrenoel.github.io/lumina/](https://pierrenoel.github.io/lumina/)
