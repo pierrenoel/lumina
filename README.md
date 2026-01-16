@@ -19,7 +19,7 @@ Lumina is a lightweight, interactive web application built with React and Tailwi
 ## ⚙️ Installation & Usage
 
 ```bash
-git clone https://github.com/your-username/lumina.git
+git clone git@github.com:pierrenoel/lumina.git
 npm install
 npm run dev
 ```
